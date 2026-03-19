@@ -4,7 +4,7 @@ A curated list of modern tabular datasets and benchmark suites focusing on real-
 
 ## Temporal & Distribution Shifts (OOD)
 * **[TabReD](https://github.com/yandex-research/tabred)** - Time-dependent industrial datasets for evaluating temporal robustness. | [Paper](https://arxiv.org/abs/2406.19380)
-* **[TableShift](https://github.com/mlfoundations/tableshift)** - Out-of-Distribution (OOD) generalization across finance and healthcare tasks. *(Includes Wild-Tab for regression).* | [Paper](https://arxiv.org/abs/2312.07577) | [Website](https://tableshift.org/)
+* **[TableShift](https://github.com/mlfoundations/tableshift)** - Out-of-Distribution (OOD) generalization across finance and healthcare tasks. *(Includes Wild-Tab for regression).* | [Paper](https://arxiv.org/abs/2312.07577)
 * **[TabFSBench](https://github.com/LAMDASZ-ML/TabFSBench)** - Pinpoint feature-shift scenarios simulating upstream data pipeline failures. | [Paper](https://icml.cc/virtual/2025/poster/44787)
 
 ## Class Imbalance
