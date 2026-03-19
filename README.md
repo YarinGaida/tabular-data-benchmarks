@@ -1,4 +1,4 @@
-# Comprehensive Tabular Data Benchmarks
+# Tabular Data Benchmarks
 
 A curated list of modern tabular datasets and benchmark suites focusing on real-world industrial challenges and baseline evaluations.
 
