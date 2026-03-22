@@ -1,11 +1,11 @@
 # Tabular Data Benchmarks
 A curated list of modern tabular datasets and benchmark suites focusing on real-world industrial challenges and baseline evaluations.
 
-## Why Tabular Data Benchmarks?
-1. **Reliable evaluations:** Preventing data leakage and metric hacking.
-2. **Real-world challenges:** Simulating distribution shifts, missing values, and class imbalance.
-3. **The "Deep Learning vs. Trees" debate:** Providing fair comparisons between GBDTs and Neural Networks.
-4. **Standardized metrics:** Using robust scoring systems like Elo ratings or normalized scores.
+Why tabular data benchmarks?
+1. Fair model comparison (e.g., Deep Learning vs. Trees)
+2. Real-world robustness (Testing on shifting, imbalanced, and messy data)
+3. Standardized evaluation (Unified metrics across the industry)
+4. Reproducible research (Preventing biased testing)
 
 ## Temporal & Distribution Shifts (OOD)
 * **[TabReD](https://github.com/yandex-research/tabred)** Time-dependent industrial benchmark for evaluating temporal robustness (8 massive datasets).
