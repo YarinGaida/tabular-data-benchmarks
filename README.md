@@ -1,7 +1,8 @@
 # Tabular Data Benchmarks
-A curated list of modern tabular datasets and benchmark suites focusing on real-world industrial challenges and baseline evaluations.
+> A curated list of modern tabular datasets and benchmark suites focusing on real-world industrial challenges and baseline evaluations.
 
 Why tabular data benchmarks?
+
 1. Fair model comparison (e.g., Deep Learning vs. Trees)
 2. Real-world robustness (Testing on shifting, imbalanced, and messy data)
 3. Standardized evaluation (Unified metrics across the industry)
