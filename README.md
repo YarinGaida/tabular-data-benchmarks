@@ -37,9 +37,6 @@ A curated list of modern tabular datasets and benchmark suites focusing on real-
   * [*Carte: Pretraining and transfer for tabular learning* (2024)](https://arxiv.org/abs/2402.16785) Myung Jun Kim, Leo Grinsztajn, Gael Varoquaux
 * **[TALENT](https://github.com/LAMDA-Tabular/TALENT)** Massive toolkit officially integrating 35+ deep tabular processing methods (300+ datasets).
   * [*TALENT: A Tabular Analytics and Learning Toolbox* (2024)](https://arxiv.org/abs/2407.00956) Si-Yang Liu, Hao-Run Cai, Qi-Le Zhou, Han-Jia Ye
-
-#### Software & Foundation Models
-* **[TabPFN](https://github.com/PriorLabs/TabPFN)** A Transformer That Solves Small Tabular Classification Problems in a Second.
-* **[AutoGluon](https://github.com/awslabs/autogluon)** Robust and accurate automl for structured data.
+  
 * **[LSPIN](https://github.com/jcyang34/lspin)** Locally SParse Interpretable Networks for tabular data.
   * [*Locally Sparse Neural Networks for Tabular Biomedical Data* (2025)](https://arxiv.org/abs/2502.12345) Junchen Yang, Ofir Lindenbaum, Yuval Kluger
