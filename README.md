@@ -1,5 +1,5 @@
 # Tabular Data Benchmarks
-> A curated list of modern tabular datasets and benchmark suites focusing on real-world industrial challenges and baseline evaluations.
+> Tabular data is structured data organized in a table format, representing the most common data type in real-world AI applications. Benchmark suites standardize the evaluation of machine learning models on these datasets.
 
 Why tabular data benchmarks?
 
