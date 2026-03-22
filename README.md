@@ -3,10 +3,10 @@
 
 Why tabular data benchmarks?
 
-1. Fair model comparison (e.g., Deep Learning vs. Trees)
+1. Standardized evaluation (Unified metrics across the industry) 
 2. Real-world robustness (Testing on shifting, imbalanced, and messy data)
-3. Standardized evaluation (Unified metrics across the industry)
-4. Reproducible research (Preventing biased testing)
+3. Reproducible research (Preventing biased testing)
+4. Fair model comparison (e.g., Deep Learning vs. Trees)
 
 ## Temporal & Distribution Shifts (OOD)
 * **[TabReD](https://github.com/yandex-research/tabred)** Time-dependent industrial benchmark for evaluating temporal robustness (8 massive datasets).
