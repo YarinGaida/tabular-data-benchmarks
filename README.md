@@ -14,8 +14,8 @@ A curated hub of modern tabular datasets, benchmark suites, and educational note
 
 ## 📑 Table of Contents
 * [🎯 Supervised Learning](#-supervised-learning)
-* [🔄 Domain Shift & Data Integration](#-domain-shift--data-integration)
-* [🧩 Clustering & Representation Learning](#-clustering--representation-learning)
+* [🔄 Domain Shift](#-domain-shift)
+* [🧩 Clustering](#-clustering)
 * [🔍 Feature Selection](#-feature-selection)
 * [🚨 Anomaly Detection](#-anomaly-detection)
 * [⚖️ Class Imbalance](#️-class-imbalance)
@@ -48,7 +48,7 @@ Evaluating models on standard classification and regression tasks to expose pure
 
 ---
 
-## 🔄 Domain Shift & Data Integration
+## 🔄 Domain Shift
 Evaluating how models handle temporal changes, feature corruption, and out-of-distribution (OOD) scenarios.
 
 #### 🗄️ Benchmarks (Standard Data)
@@ -63,7 +63,7 @@ Evaluating how models handle temporal changes, feature corruption, and out-of-di
 
 ---
 
-## 🧩 Clustering & Representation Learning
+## 🧩 Clustering
 Evaluating unsupervised learning methods to discover hidden groupings, sub-types, and topologies in data without prior labeling.
 
 #### 🧬 Benchmarks (High-Dimensional / Biological Data)
