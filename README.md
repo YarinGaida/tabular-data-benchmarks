@@ -1,4 +1,4 @@
-# 📊 Machine Learning in Tabular Data: Benchmarks & Algorithms
+# 📊 Machine Learning in Tabular Data
 
 A curated hub of modern tabular datasets, benchmark suites, and educational notebooks focusing on real-world machine learning challenges.
 
