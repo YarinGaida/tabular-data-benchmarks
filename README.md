@@ -12,6 +12,17 @@ A curated hub of modern tabular datasets, benchmark suites, and educational note
 
 ---
 
+## 📑 Table of Contents
+* [🎯 Supervised Learning](#-supervised-learning)
+* [🔄 Domain Shift & Data Integration](#-domain-shift--data-integration)
+* [🧩 Clustering & Representation Learning](#-clustering--representation-learning)
+* [🔍 Feature Selection](#-feature-selection)
+* [🚨 Anomaly Detection](#-anomaly-detection)
+* [⚖️ Class Imbalance](#️-class-imbalance)
+* [🔗 Relational & Multimodal Learning](#-relational--multimodal-learning)
+
+---
+
 ## 🎯 Supervised Learning
 Evaluating models on standard classification and regression tasks to expose pure architectural disparities and predictive power.
 
