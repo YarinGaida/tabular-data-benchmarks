@@ -34,7 +34,7 @@ Evaluating models on standard classification and regression tasks to expose pure
 
 #### 💻 Educational Masterclass Notebook
 * 🚀 **[Supervised Learning on Tabular Data: From Linear Baselines to Foundation Models](./notebooks/supervised/supervisedClassic.ipynb)**
-  *(Evaluates LASSO, XGBoost, MLPs, and TabPFN across standard datasets and high-dimensional oncology data).*
+  *(Evaluates Linear Regression, LASSO, XGBoost across standard datasets and high-dimensional oncology data).*
 
 ---
 
