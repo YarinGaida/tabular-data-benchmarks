@@ -33,8 +33,8 @@ Evaluating models on standard classification and regression tasks to expose pure
 * **[Cancer Multi-Omics Benchmark (MLOmics)](https://github.com/chenzRG/Cancer-Multi-Omics-Benchmark)** Systematic evaluation of machine learning methods for pan-cancer classification and survival prediction using multimodal biological tables.
 
 #### 💻 Educational Masterclass Notebook
-* 🚀 **[Supervised Learning on Tabular Data: From Linear Baselines to Foundation Models](./notebooks/supervised_learning/supervised_masterclass.ipynb)**
-  *(Evaluates LASSO, XGBoost, MLPs, and TabPFN across standard datasets and high-dimensional oncology data).*
+* 🚀 **[Supervised Learning on Tabular Data: From Linear Baselines to Foundation Models](./notebooks/supervised/supervisedClassic.ipynb)**
+  *(Evaluates Linear Regression, LASSO, XGBoost across standard datasets and high-dimensional oncology data).*
 
 ---
 
