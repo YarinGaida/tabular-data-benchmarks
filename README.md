@@ -37,7 +37,7 @@ Evaluating models on standard classification and regression tasks to expose pure
 * **[METS-CoV](https://github.com/yuzhimanhua/METS-CoV)** Epidemiological tabular dataset extracting medical entities and sentiments from social media to track disease metrics.
 
 #### 💻 Educational Masterclass Notebook
-* 🚀 **[Supervised Learning on Tabular Data: From Linear Baselines to Foundation Models](./notebooks/supervised/supervised-classic.ipynb)**
+* 🚀 **[Supervised Learning on Tabular Data: From Linear Baselines to Gradient Boosting](./notebooks/supervised/supervised-classic.ipynb)**
   *(Evaluates Linear Regression, LASSO, XGBoost across standard datasets and high-dimensional oncology data).*
 
 ---
