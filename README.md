@@ -39,8 +39,8 @@ Evaluating models on standard classification and regression tasks to expose pure
 #### 💻 Educational Masterclass Notebook
 * 🚀 **[Supervised Learning on Tabular Data: From Linear Baselines to Gradient Boosting](./notebooks/supervised/supervised-classic.ipynb)**
   *(Evaluates Linear Regression, LASSO, XGBoost across standard datasets and high-dimensional oncology data).*
-* 🚀 **[Supervised Learning on Tabular Data: From Linear Baselines to Gradient Boosting](./notebooks/supervised/supervised-deep.ipynb)**
-  *(Evaluates Linear Regression, LASSO, XGBoost across standard datasets and high-dimensional oncology data).*
+* 🚀 **[Supervised Learning on Tabular Data: Deep & Foundation Model](./notebooks/supervised/supervised-deep.ipynb)**
+  *(Evaluates MLP, FT-Transformer, TabPFN across standard datasets and high-dimensional oncology data).*
 ---
 
 ## ⏳ Survival Analysis (Time-to-Event)
