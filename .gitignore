@@ -1,3 +1,18 @@
 venv/
 __pycache__/
 .DS_Store
+
+# PyTorch Tabular & Lightning Auto-generated logs
+lightning_logs/
+experiments/
+**/exp_version_manager.yaml
+hparams.yaml
+metrics.csv
+# PyTorch Model Checkpoints
+*.ckpt
+*.pth
+classification-*
+saved_models/
+
+.pt_tmp/
+**/exp_version_manager.yaml
