@@ -36,7 +36,7 @@ Evaluating models on standard classification and regression tasks to expose pure
 * **[ProteomicsML](https://github.com/compomics/ProteomicsML)** A curated repository mapping raw peptide sequences to physicochemical properties (e.g., retention times, fragmentation patterns) to test peptide embedding strategies.
 * **[METS-CoV](https://github.com/yuzhimanhua/METS-CoV)** Epidemiological tabular dataset extracting medical entities and sentiments from social media to track disease metrics.
 
-#### 💻 Educational Masterclass Notebook
+#### 💻 Educational Notebooks
 * 🚀 **[Supervised Learning on Tabular Data: From Linear Baselines to Gradient Boosting](./notebooks/supervised/supervised-classic.ipynb)**
   *(Evaluates Linear Regression, LASSO, XGBoost across standard datasets and high-dimensional oncology data).*
 * 🚀 **[Supervised Learning on Tabular Data: Deep & Foundation Model](./notebooks/supervised/supervised-deep.ipynb)**
