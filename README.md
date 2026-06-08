@@ -62,7 +62,7 @@ Evaluating how models handle temporal changes, feature corruption, batch effects
 * **[scIB & scIB-E](https://github.com/theislab/scib)** The industry standard for evaluating Data Integration and Batch Effect correction across single-cell datasets.
 
 #### 💻 Educational Masterclass Notebook
-* 🚀 **[Domain Shift & Data Integration: Handling Non-IID Tabular Data](./notebooks/domainShift/Domain_Shift_and_Batch_Effects.ipynb)**
+* 🚀 **[Domain Shift & Data Integration: Handling Non-IID Tabular Data](./notebooks/domainShift/domain-shift.ipynb)**
   *(Demonstrates model degradation over time and strategies for batch-effect removal in biological data).*
 
 ---
