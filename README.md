@@ -36,12 +36,11 @@ Evaluating models on standard classification and regression tasks to expose pure
 * **[ProteomicsML](https://github.com/compomics/ProteomicsML)** A curated repository mapping raw peptide sequences to physicochemical properties (e.g., retention times, fragmentation patterns) to test peptide embedding strategies.
 * **[METS-CoV](https://github.com/yuzhimanhua/METS-CoV)** Epidemiological tabular dataset extracting medical entities and sentiments from social media to track disease metrics.
 
-#### 💻 Educational Notebooks
-* 🚀 **[Supervised Learning on Tabular Data: From Linear Baselines to Gradient Boosting](https://colab.research.google.com/github/YarinGaida/tabular-data-benchmarks/blob/main/notebooks/supervised/supervised-classic.ipynb)** 
-  *(Evaluates Linear Regression, LASSO, XGBoost across standard datasets and high-dimensional oncology data).*
-
-* 🚀 **[Supervised Learning on Tabular Data: Deep & Foundation Model](https://colab.research.google.com/github/YarinGaida/tabular-data-benchmarks/blob/main/notebooks/supervised/supervised-deep.ipynb)** 
-  *(Evaluates MLP, FT-Transformer, TabPFN across standard datasets and high-dimensional oncology data).*
+### 💻 Educational Notebooks
+* 🚀 **Supervised Learning on Tabular Data: From Linear Baselines to Gradient Boosting**
+    *(Evaluates Linear Regression, LASSO, XGBoost across standard datasets and high-dimensional oncology data).*
+* 🚀 **Supervised Learning on Tabular Data: Deep & Foundation Model**
+    *(Evaluates MLP, FT-Transformer, TabPFN across standard datasets and high-dimensional oncology data).*
 ---
 
 ## ⏳ Survival Analysis (Time-to-Event)
@@ -62,9 +61,9 @@ Evaluating how models handle temporal changes, feature corruption, batch effects
 * **[TabReD](https://github.com/yandex-research/tabred)** Time-dependent industrial benchmark for evaluating temporal robustness.
 * **[scIB & scIB-E](https://github.com/theislab/scib)** The industry standard for evaluating Data Integration and Batch Effect correction across single-cell datasets.
 
-#### 💻 Educational Masterclass Notebook
-* 🚀 **[Domain Shift & Data Integration: Handling Non-IID Tabular Data](https://colab.research.google.com/github/YarinGaida/tabular-data-benchmarks/blob/main/notebooks/domainShift/Domain_Shift_and_Batch_Effects.ipynb)** 
-  *(Demonstrates model degradation over time and strategies for batch-effect removal in biological data).*
+### 💻 Educational Masterclass Notebook
+* 🚀 **Domain Shift & Data Integration: Handling Non-IID Tabular Data**   
+    *(Demonstrates model degradation over time and strategies for batch-effect removal in biological data).*
 
 ---
 
