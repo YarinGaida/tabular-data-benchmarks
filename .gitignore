@@ -16,3 +16,6 @@ saved_models/
 
 .pt_tmp/
 **/exp_version_manager.yaml
+
+# Local datasets - do not upload to GitHub
+data/
