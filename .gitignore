@@ -4,7 +4,7 @@ __pycache__/
 
 # PyTorch Tabular & Lightning Auto-generated logs
 lightning_logs/
-experiments/
+
 **/exp_version_manager.yaml
 hparams.yaml
 metrics.csv
